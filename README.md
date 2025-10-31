@@ -1,5 +1,3 @@
-# App-Dev
-My First Repository 
 
 
 # App-Dev
